@@ -51,8 +51,8 @@ Una aplicación web moderna de e-commerce especializada en plantas de interior, 
 
 1. Clona el repositorio:
 ```bash
-git clone [URL_DEL_REPOSITORIO]
-cd plantas-interior-ecommerce
+git clone https://github.com/RamfiAogusto/proyectofinal-react.git
+cd proyectofinal-react
 ```
 
 2. Instala las dependencias:
