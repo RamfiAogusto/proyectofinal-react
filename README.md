@@ -116,10 +116,19 @@ src/
 
 ## 🚀 Despliegue
 
+### Aplicación en Vivo
+🌐 **URL**: https://RamfiAogusto.github.io/proyectofinal-react
+
+### Despliegue Manual
 Para construir la aplicación para producción:
 
 ```bash
 npm run build
+```
+
+Para desplegar en GitHub Pages:
+```bash
+npm run deploy
 ```
 
 Los archivos optimizados se generarán en la carpeta `build/`.
