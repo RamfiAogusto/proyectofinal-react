@@ -2,7 +2,7 @@
   "name": "plantas-interior-ecommerce",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://RamfiAogusto.github.io/proyectofinal-react",
+  "homepage": ".",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@types/node": "^20.8.7",
